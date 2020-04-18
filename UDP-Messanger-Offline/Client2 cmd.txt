@@ -1,0 +1,5 @@
+javac -version
+f:
+cd F:\LearningNetworking\src\FinalPack
+javac Client.java
+java Client Rumman 12347 192.168.41.110 CSE

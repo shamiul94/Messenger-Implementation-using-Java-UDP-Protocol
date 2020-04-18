@@ -1,0 +1,5 @@
+javac -version
+f:
+cd F:\LearningNetworking\src\FinalPack
+javac Server.java
+java Server CSE

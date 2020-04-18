@@ -1,0 +1,5 @@
+javac -version
+f:
+cd F:\LearningNetworking\src\FinalPack
+javac Client.java
+java Client Rumman
